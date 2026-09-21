@@ -121,13 +121,13 @@ function App() {
       <section className="hero">
         <div className="hero-label">
           <span className="hero-line" />
-          YOUR SPACE TO TYPE
+         MADE FOR FUN
         </div>
 
         <h1>
-          Make every
-          <span> keystroke </span>
-          count.
+          Make sure you got
+          <span> Headphons </span>
+          on.
         </h1>
 
         <p>
@@ -171,14 +171,19 @@ function App() {
       {/* FOOTER */}
       <footer className="footer">
         <div className="footer-brand">
-          <span className="footer-flower">✦</span>
-          <span>
-            Powered by <strong>Lily Design</strong>
-          </span>
-        </div>
+  <img
+    src="/logo.svg"
+    alt="Lily Design"
+    className="footer-logo"
+  />
+
+  <span>
+    Powered by <strong>Lily Design</strong>
+  </span>
+</div>
 
         <span className="footer-copy">
-          Designed & built with curiosity.
+          Designed & built for FUN.
         </span>
       </footer>
     </main>
