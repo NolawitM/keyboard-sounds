@@ -126,7 +126,7 @@ function App() {
 
         <h1>
           Make sure you got
-          <span> Headphons </span>
+          <span> Headphones </span>
           on.
         </h1>
 
